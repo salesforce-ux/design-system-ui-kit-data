@@ -12,6 +12,12 @@ A collection of fictitious Salesforce data for use as <a href="https://medium.co
 
 ----
 
+### Disclaimer
+
+This is a work of fiction. Names, characters, businesses, places, events, locales, numbers, emails, URLs and all other content in this repository are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+<br />
+<br />
+
 ## Requirements
 
 ### Lightning Design System UI Kit
