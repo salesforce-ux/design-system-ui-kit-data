@@ -4,7 +4,7 @@
 <br />
 <h1 align="center" style="border-bottom:none;">Lightning Design System UI Kit Data</h1>
 <p align="center">
-A collection of fake Salesforce data to be used as <a href="https://medium.com/sketch-app-sources/using-the-new-data-feature-in-sketch-52-daee8403cabb" target="_blank">Sketch Custom Data</a> to populate dummy content in the Lightning Design System UI Kit designs.
+A collection of fictitious Salesforce data for use as <a href="https://medium.com/sketch-app-sources/using-the-new-data-feature-in-sketch-52-daee8403cabb" target="_blank">Sketch custom data</a>. Use this info to populate designs created from the Lightning Design System UI Kit.
 </p>
 <h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit-data/archive/master.zip">» Download the SLDS Data Now «</a></h3>
 <br />
