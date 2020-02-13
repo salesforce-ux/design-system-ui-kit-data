@@ -9,6 +9,10 @@ A collection of fictitious Salesforce data for use as <a href="https://medium.co
 <h3 align="center"><a href="https://github.com/salesforce-ux/design-system-ui-kit-data/archive/master.zip">» Download the SLDS Data Now «</a></h3>
 <br />
 <br />
+<img src="https://media.giphy.com/media/cPZS3N2NgWbtsf8uoU/source.gif" alt="Adding custom data to 100 fields in 30 seconds" />
+
+<br />
+<br />
 
 ----
 
